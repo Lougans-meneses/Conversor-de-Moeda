@@ -47,7 +47,7 @@
 ## 🛠️ Tecnologias utilizadas
 
 JAVA - GSON - INTELLIJ
----
+
 ---
 
 ## ⭐ Créditos<a id="creditos"></a>
